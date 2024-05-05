@@ -1,0 +1,31 @@
+{
+  "page_number": 1,
+  "kind": "search#companies",
+  "total_results": 1,
+  "items": [
+      {
+          "company_status": "active",
+          "address_snippet": "82a James Carter Road, Mildenhall, Bury St. Edmunds, England, IP28 7DE",
+          "date_of_creation": "2023-01-06",
+          "description": "14575777 - Incorporated on  6 January 2023",
+          "links": {
+              "self": "/company/14575777"
+          },
+          "company_number": "14575777",
+          "title": "44 SCIENTIFICS LTD",
+          "company_type": "ltd",
+          "address": {
+              "premises": "82a",
+              "postal_code": "IP28 7DE",
+              "country": "England",
+              "locality": "Bury St. Edmunds",
+              "address_line_1": "James Carter Road",
+              "address_line_2": "Mildenhall"
+          },
+          "kind": "searchresults#company",
+          "description_identifier": [
+              "incorporated-on"
+          ]
+      }
+  ]
+}

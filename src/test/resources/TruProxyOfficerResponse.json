@@ -1,0 +1,112 @@
+{
+  "etag": "f7a68c62d4f0c64d5bc3f9408aca65880d251c58",
+  "links": {
+    "self": "/company/14654925/officers"
+  },
+  "kind": "officer-list",
+  "items_per_page": 35,
+  "items": [
+    {
+      "address": {
+        "premises": "Cross Chambers",
+        "postal_code": "SY16 2NY",
+        "country": "Wales",
+        "locality": "Newtown",
+        "region": "Powys",
+        "address_line_1": "9 High Street"
+      },
+      "name": "DONAGHY, Jennifer Elizabeth Ann",
+      "appointed_on": "2023-02-10",
+      "officer_role": "director",
+      "links": {
+        "officer": {
+          "appointments": "/officers/2K7iEor83pVYb7rROZT1klNjYug/appointments"
+        }
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1978
+      },
+      "occupation": "Shop Manager",
+      "country_of_residence": "United Kingdom",
+      "nationality": "British"
+    },
+    {
+      "address": {
+        "premises": "Cross Chambers",
+        "postal_code": "SY16 2NY",
+        "country": "Wales",
+        "locality": "Newtown",
+        "region": "Powys",
+        "address_line_1": "9 High Street"
+      },
+      "name": "LEWIS, Jean Elizabeth",
+      "appointed_on": "2023-02-10",
+      "officer_role": "director",
+      "links": {
+        "officer": {
+          "appointments": "/officers/CDCzEr8VnaoidtMGJLOqDQPOdBE/appointments"
+        }
+      },
+      "date_of_birth": {
+        "month": 8,
+        "year": 1952
+      },
+      "occupation": "Post Mistress",
+      "country_of_residence": "United Kingdom",
+      "nationality": "British"
+    },
+    {
+      "address": {
+        "premises": "Cross Chambers",
+        "postal_code": "SY16 2NY",
+        "country": "Wales",
+        "locality": "Newtown",
+        "region": "Powys",
+        "address_line_1": "9 High Street"
+      },
+      "name": "LEWIS, Richard Thomas John",
+      "appointed_on": "2023-02-10",
+      "officer_role": "director",
+      "links": {
+        "officer": {
+          "appointments": "/officers/YnYoU3ybbKAw4a3aDHFw_3uHAsY/appointments"
+        }
+      },
+      "date_of_birth": {
+        "month": 12,
+        "year": 1974
+      },
+      "occupation": "Agricultural Contractor",
+      "country_of_residence": "England",
+      "nationality": "British"
+    },
+    {
+      "address": {
+        "premises": "Cross Chambers",
+        "postal_code": "SY16 2NY",
+        "country": "Wales",
+        "locality": "Newtown",
+        "region": "Powys",
+        "address_line_1": "9 High Street"
+      },
+      "name": "LEWIS, Richard John",
+      "appointed_on": "2023-02-10",
+      "officer_role": "director",
+      "links": {
+        "officer": {
+          "appointments": "/officers/A54X8e_70mXvzMhHJZymgSCzdIg/appointments"
+        }
+      },
+      "date_of_birth": {
+        "month": 6,
+        "year": 1948
+      },
+      "occupation": "Agricultural Contractor",
+      "country_of_residence": "United Kingdom",
+      "nationality": "British"
+    }
+  ],
+  "active_count": 4,
+  "total_results": 4
+}

@@ -1,0 +1,37 @@
+{
+  "etag": "85af046be2be10f1af6a64cb59cf1841ea4435aa",
+  "links": {
+      "self": "/company/14575777/officers"
+  },
+  "kind": "officer-list",
+  "items_per_page": 35,
+  "items": [
+      {
+          "address": {
+              "premises": "82a",
+              "postal_code": "IP28 7DE",
+              "country": "England",
+              "locality": "Bury St. Edmunds",
+              "address_line_1": "James Carter Road",
+              "address_line_2": "Mildenhall"
+          },
+          "name": "CAMARA, Cheikh",
+          "appointed_on": "2023-01-06",
+          "officer_role": "director",
+          "links": {
+              "officer": {
+                  "appointments": "/officers/XnfVTgrnjbGeF4-IB8crNohcEBU/appointments"
+              }
+          },
+          "date_of_birth": {
+              "month": 1,
+              "year": 1987
+          },
+          "occupation": "Consultant",
+          "country_of_residence": "United Kingdom",
+          "nationality": "French"
+      }
+  ],
+  "active_count": 1,
+  "total_results": 1
+}

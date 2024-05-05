@@ -1,0 +1,33 @@
+{
+  "total_results": 1,
+  "items": [
+      {
+          "company_number": "14575777",
+          "company_type": "ltd",
+          "company_status": "active",
+          "title": "44 SCIENTIFICS LTD",
+          "date_of_creation": "2023-01-06",
+          "address": {
+              "locality": "Bury St. Edmunds",
+              "postal_code": "IP28 7DE",
+              "premises": "82a",
+              "address_line_1": "James Carter Road",
+              "country": "England"
+          },
+          "officers": [
+              {
+                  "name": "CAMARA, Cheikh",
+                  "officer_role": "director",
+                  "appointed_on": "2023-01-06",
+                  "address": {
+                      "locality": "Bury St. Edmunds",
+                      "postal_code": "IP28 7DE",
+                      "premises": "82a",
+                      "address_line_1": "James Carter Road",
+                      "country": "England"
+                  }
+              }
+          ]
+      }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "page_number": 1,
+  "kind": "search#companies",
+  "total_results": 20,
+  "items": [
+    {
+      "company_status": "dissolved",
+      "address_snippet": "7  Queens Gardens, Aberdeen, AB15 4YD",
+      "date_of_creation": "2005-05-23",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "SC285172 - Dissolved on 14 March 2019",
+      "links": {
+        "self": "/company/SC285172"
+      },
+      "company_number": "SC285172",
+      "title": "LEWIS LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "7 ",
+        "postal_code": "AB15 4YD",
+        "locality": "Aberdeen",
+        "address_line_1": "Queens Gardens"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "dissolved-on"
+      ],
+      "date_of_cessation": "2019-03-14"
+    },
+    {
+      "company_status": "registered",
+      "address_snippet": "PO BOX 112 St Martins House, Le Bordage, St Peter Port, Guernsey, GY1 4EA",
+      "date_of_creation": "2023-02-10",
+      "matches": {
+        "title": [
+          1,
+          8
+        ]
+      },
+      "description": "OE025466 - Registered on 10 February 2023",
+      "links": {
+        "self": "/company/OE025466"
+      },
+      "company_number": "OE025466",
+      "title": "LEWISHAM HOUSE NO.1 LIMITED",
+      "company_type": "registered-overseas-entity",
+      "address": {
+        "premises": "PO BOX 112 St Martins House",
+        "postal_code": "GY1 4EA",
+        "country": "Guernsey",
+        "locality": "St Peter Port",
+        "address_line_1": "Le Bordage"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        null,
+        "registered"
+      ]
+    },
+    {
+      "company_status": "registered",
+      "address_snippet": "Martello Court, Admiral Park, St Peter Port, Guernsey, GY1 3HB",
+      "date_of_creation": "2022-11-30",
+      "matches": {
+        "title": [
+          1,
+          5,
+          9,
+          13
+        ]
+      },
+      "description": "OE005757 - Registered on 30 November 2022",
+      "links": {
+        "self": "/company/OE005757"
+      },
+      "company_number": "OE005757",
+      "title": "LEWIS & LEWIS INVESTMENTS LIMITED",
+      "company_type": "registered-overseas-entity",
+      "address": {
+        "premises": "Martello Court",
+        "postal_code": "GY1 3HB",
+        "country": "Guernsey",
+        "locality": "St Peter Port",
+        "address_line_1": "Admiral Park"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        null,
+        "registered"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "82a James Carter Road, Mildenhall, Bury St. Edmunds, England, IP28 7DE",
+      "date_of_creation": "2023-01-06",
+      "matches": {
+        "snippet": [
+          1,
+          5
+        ]
+      },
+      "snippet": "LEWIS BROWNE & CO ",
+      "description": "14575777 - Incorporated on  6 January 2023",
+      "links": {
+        "self": "/company/14575777"
+      },
+      "company_number": "14575777",
+      "title": "44 SCIENTIFICS LTD",
+      "company_type": "ltd",
+      "address": {
+        "premises": "82a",
+        "postal_code": "IP28 7DE",
+        "country": "England",
+        "locality": "Bury St. Edmunds",
+        "address_line_1": "James Carter Road",
+        "address_line_2": "Mildenhall"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "6th Floor, Amp House, Dingwall Road, Croydon, Surrey, United Kingdom, CR0 2LX",
+      "date_of_creation": "2018-04-05",
+      "matches": {
+        "snippet": [
+          1,
+          9
+        ]
+      },
+      "snippet": "LEWISCORP ",
+      "description": "11293137 - Incorporated on  5 April 2018",
+      "links": {
+        "self": "/company/11293137"
+      },
+      "company_number": "11293137",
+      "title": "GLENCOE HOUGUN LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "6th",
+        "postal_code": "CR0 2LX",
+        "country": "United Kingdom",
+        "locality": "Croydon",
+        "region": "Surrey",
+        "address_line_1": "Floor, Amp House",
+        "address_line_2": "Dingwall Road"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "Valley View Tugby Orchards Business Centre, Wood Lane, Tugby, Leicestershire, England, LE7 9WE",
+      "date_of_creation": "2021-10-08",
+      "matches": {
+        "snippet": [
+          1,
+          5
+        ]
+      },
+      "snippet": "LEWIS MOSES SPORTS SERVICES ",
+      "description": "13669992 - Incorporated on  8 October 2021",
+      "links": {
+        "self": "/company/13669992"
+      },
+      "company_number": "13669992",
+      "title": "HILLIER-MOSES SPORTS SERVICES LTD",
+      "company_type": "ltd",
+      "address": {
+        "premises": "Valley View Tugby Orchards Business Centre",
+        "postal_code": "LE7 9WE",
+        "country": "England",
+        "locality": "Tugby",
+        "region": "Leicestershire",
+        "address_line_1": "Wood Lane"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "C/O Likewise Group Plc Unit 4 Radial Park, Radial Way, Birmingham Business Park, Solihull, Birmingham, United Kingdom, B37 7WN",
+      "date_of_creation": "1945-11-30",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "00401327 - Incorporated on 30 November 1945",
+      "links": {
+        "self": "/company/00401327"
+      },
+      "company_number": "00401327",
+      "title": "LEWIS ABBOTT LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "C/O Likewise Group Plc Unit 4 Radial Park, Radial Way",
+        "postal_code": "B37 7WN",
+        "country": "United Kingdom",
+        "locality": "Solihull",
+        "region": "Birmingham",
+        "address_line_1": "Birmingham Business Park"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "45 Ormskirk Road, Chapel House, Skelmersdale, England, WN8 8TR",
+      "date_of_creation": "2014-04-09",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "08988519 - Incorporated on  9 April 2014",
+      "links": {
+        "self": "/company/08988519"
+      },
+      "company_number": "08988519",
+      "title": "LEWIS ABBOTT CAMERA LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "45",
+        "postal_code": "WN8 8TR",
+        "country": "England",
+        "locality": "Skelmersdale",
+        "address_line_1": "Ormskirk Road",
+        "address_line_2": "Chapel House"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "128 City Road, London, United Kingdom, EC1V 2NX",
+      "date_of_creation": "2021-09-22",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "13636394 - Incorporated on 22 September 2021",
+      "links": {
+        "self": "/company/13636394"
+      },
+      "company_number": "13636394",
+      "title": "LEWIS ACCOMMODATIONS LTD",
+      "company_type": "ltd",
+      "address": {
+        "premises": "128",
+        "postal_code": "EC1V 2NX",
+        "country": "United Kingdom",
+        "locality": "London",
+        "address_line_1": "City Road"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "15 Holly Avenue, New Haw, Addlestone, Surrey, United Kingdom, KT15 3UB",
+      "date_of_creation": "2024-03-31",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "15607056 - Incorporated on 31 March 2024",
+      "links": {
+        "self": "/company/15607056"
+      },
+      "company_number": "15607056",
+      "title": "LEWIS ACCOUNTANCY SERVICES LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "15",
+        "postal_code": "KT15 3UB",
+        "country": "United Kingdom",
+        "locality": "Addlestone",
+        "region": "Surrey",
+        "address_line_1": "Holly Avenue",
+        "address_line_2": "New Haw"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "62 Sycamore Road, East Leake, Loughborough, England, LE12 6PS",
+      "date_of_creation": "2006-03-23",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "05754383 - Incorporated on 23 March 2006",
+      "links": {
+        "self": "/company/05754383"
+      },
+      "company_number": "05754383",
+      "title": "LEWIS ACCOUNTING LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "62",
+        "postal_code": "LE12 6PS",
+        "country": "England",
+        "locality": "Loughborough",
+        "address_line_1": "Sycamore Road",
+        "address_line_2": "East Leake"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "Unit 7a Radford Crescent, Billericay, Essex, United Kingdom, CM12 0DU",
+      "date_of_creation": "2020-02-25",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "12483003 - Incorporated on 25 February 2020",
+      "links": {
+        "self": "/company/12483003"
+      },
+      "company_number": "12483003",
+      "title": "LEWIS ADAMS PRODUCTIONS LTD",
+      "company_type": "ltd",
+      "address": {
+        "premises": "Unit 7a",
+        "postal_code": "CM12 0DU",
+        "country": "United Kingdom",
+        "locality": "Billericay",
+        "region": "Essex",
+        "address_line_1": "Radford Crescent"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "2nd Floor Connaught House 1-3 Mount Street, Entrance Via Davis Street, London, W1K 3NB",
+      "date_of_creation": "2023-04-27",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "OC447107 - Incorporated on 27 April 2023",
+      "links": {
+        "self": "/company/OC447107"
+      },
+      "company_number": "OC447107",
+      "title": "LEWIS ADVISORS LLP",
+      "company_type": "llp",
+      "address": {
+        "premises": "2nd",
+        "postal_code": "W1K 3NB",
+        "locality": "London",
+        "address_line_1": "Floor Connaught House 1-3 Mount Street",
+        "address_line_2": "Entrance Via Davis Street"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "1 Lindop Close, Leamington Spa, CV32 7HD",
+      "date_of_creation": "2014-09-04",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "09204349 - Incorporated on  4 September 2014",
+      "links": {
+        "self": "/company/09204349"
+      },
+      "company_number": "09204349",
+      "title": "LEWIS ADVISORY SERVICES LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "1",
+        "postal_code": "CV32 7HD",
+        "locality": "Leamington Spa",
+        "address_line_1": "Lindop Close"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "Cross Chambers, 9 High Street, Newtown, Powys, Wales, SY16 2NY",
+      "date_of_creation": "2023-02-10",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "14654925 - Incorporated on 10 February 2023",
+      "links": {
+        "self": "/company/14654925"
+      },
+      "company_number": "14654925",
+      "title": "LEWIS AGRICULTURAL LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "Cross Chambers",
+        "postal_code": "SY16 2NY",
+        "country": "Wales",
+        "locality": "Newtown",
+        "region": "Powys",
+        "address_line_1": "9 High Street"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "62 Grosmont Avenue, Worcester, Worcs, WR4 0RD",
+      "date_of_creation": "2009-06-19",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "06939411 - Incorporated on 19 June 2009",
+      "links": {
+        "self": "/company/06939411"
+      },
+      "company_number": "06939411",
+      "title": "LEWIS AIR CONDITIONING (2001) LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "62",
+        "postal_code": "WR4 0RD",
+        "locality": "Worcester",
+        "region": "Worcs",
+        "address_line_1": "Grosmont Avenue"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "The Lodge High Street, Hartley Wintney, Hook, Hampshire, RG27 8NY",
+      "date_of_creation": "2008-10-21",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "06728706 - Incorporated on 21 October 2008",
+      "links": {
+        "self": "/company/06728706"
+      },
+      "company_number": "06728706",
+      "title": "LEWIS ALDERSON & CO LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "The Lodge High Street",
+        "postal_code": "RG27 8NY",
+        "locality": "Hook",
+        "region": "Hampshire",
+        "address_line_1": "Hartley Wintney"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "The Lodge High Street, Hartley Wintney, Hook, Hampshire, England, RG27 8NY",
+      "date_of_creation": "2016-02-18",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "10011676 - Incorporated on 18 February 2016",
+      "links": {
+        "self": "/company/10011676"
+      },
+      "company_number": "10011676",
+      "title": "LEWIS ALDERSON LOGISTICS LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "The Lodge High Street",
+        "postal_code": "RG27 8NY",
+        "country": "England",
+        "locality": "Hook",
+        "region": "Hampshire",
+        "address_line_1": "Hartley Wintney"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "C/O Holder Blackthorn Blackthorn House, St. Pauls Square, Birmingham, England, B3 1RL",
+      "date_of_creation": "2013-12-16",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "08816611 - Incorporated on 16 December 2013",
+      "links": {
+        "self": "/company/08816611"
+      },
+      "company_number": "08816611",
+      "title": "LEWIS ALDRIDGE JOINERY LIMITED",
+      "company_type": "ltd",
+      "address": {
+        "premises": "C/O Holder Blackthorn Blackthorn House",
+        "postal_code": "B3 1RL",
+        "country": "England",
+        "locality": "Birmingham",
+        "address_line_1": "St. Pauls Square"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    },
+    {
+      "company_status": "active",
+      "address_snippet": "The Copper Room The Deva Centre, Trinity Way, Manchester, M3 7BG",
+      "date_of_creation": "2003-02-17",
+      "matches": {
+        "title": [
+          1,
+          5
+        ]
+      },
+      "description": "04668712 - Incorporated on 17 February 2003",
+      "links": {
+        "self": "/company/04668712"
+      },
+      "company_number": "04668712",
+      "title": "LEWIS ALEXANDER LTD",
+      "company_type": "ltd",
+      "address": {
+        "premises": "The Copper Room The Deva Centre",
+        "postal_code": "M3 7BG",
+        "locality": "Manchester",
+        "address_line_1": "Trinity Way"
+      },
+      "kind": "searchresults#company",
+      "description_identifier": [
+        "incorporated-on"
+      ]
+    }
+  ]
+}
